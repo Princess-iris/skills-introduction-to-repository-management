@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Princess-iris
+/src/backend/database.py      @Princess-iris
+/src/backend/routers/auth.py  @Princess-iris
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Princess-iris
